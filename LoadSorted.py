@@ -1,6 +1,7 @@
 import foggie.utils.foggie_load as fog
 import yt
 from yt import YTQuantity,YTArray
+from yt.data_objects.particle_filters import add_particle_filter
 import numpy as np
 import h5py
 
